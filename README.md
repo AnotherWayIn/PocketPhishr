@@ -6,3 +6,6 @@ Code is based on the original here: https://github.com/adamff1/ESP8266-Captive-P
 Much like the original code, you can browse to the web server on http://172.0.0.1/creds to view all the saved credentials or to http://172.0.0.1/ssid to change the ssid.
 
 This is less painful to visit from a computer rather than a mobile - due to the cpative portal redirect
+
+
+If you want to take it further, there is a case you can 3d print for it here: https://www.thingiverse.com/thing:6099890
