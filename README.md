@@ -1,5 +1,5 @@
 # PocketPhishr
-An evil WiFi Access Point for your pocket
+An evil WiFi Access Point for your pocket - because
 
 Code is based on the original here: https://github.com/adamff1/ESP8266-Captive-Portal, with a few changes to work with a display such as this: https://www.aliexpress.com/item/1005004513260449.html
 
