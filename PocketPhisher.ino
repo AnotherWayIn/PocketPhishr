@@ -2,12 +2,6 @@
 // https://github.com/adamff1/ESP8266_WiFi_Captive_Portal_2.0
 
 
-// IDEAS
-
-// investigate best battery
-// aerial upgrade or power change to increase distance?
-
-
 
 
 // Includes
@@ -182,14 +176,6 @@ String postedSSID() {
   WiFi.softAP(postedSSID);
   return header("Posted SSID") + newSSID + footer();
 }
-
-//================================================================
-
-u8g2_uint_t offset;                                         // current offset for the scrolling text
-u8g2_uint_t width;                                          // pixel width of the scrolling text (must be lesser than 128 unless U8G2_16BIT is defined
-const char *text = "Sit back, relax. The bait is set....";  //There's plenty of phish in the sea....Time spent phishing is never wasted....A bad day of phishing is still better than a good day at work....";	// scroll this text from right to left
-
-
 
 
 
