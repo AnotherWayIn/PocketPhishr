@@ -1,10 +1,10 @@
 # PocketPhishr
 An evil WiFi Access Point for your pocket - because
 
-Code is based on the original here: https://github.com/adamff1/ESP8266-Captive-Portal, with some tweaks to work with a display. In particular this one: https://www.aliexpress.com/item/1005004513260449.html that uses the U8g2 library.
+Code is based on the original here: https://github.com/adamff1/ESP8266-Captive-Portal, with some tweaks to work with a display. In particular this one: https://www.aliexpress.com/item/1005004513260449.html that uses the U8g2 library. There are some instructions in the link about setting up the board and library within the Arduino IDE.
 
-Much like the original code, you can browse to the web server on http://172.0.0.1/creds to view all the saved credentials or to http://172.0.0.1/ssid to change the ssid.
-You'll find this part is easier from a pc than your phone.
+
+Once running, if you connect to the free wifi from a pc (probably easier than your phone) you can browse to the web server on http://172.0.0.1/creds to view all the saved credentials or to http://172.0.0.1/ssid to change the ssid.
 
 
 If you want to take it further, there is a case you can 3d print for it here: https://www.thingiverse.com/thing:6099890
@@ -13,7 +13,7 @@ Unfortunately, I couldn't find this version without the pin headers, so you'll n
 
 
 ** update **
-i've since found another version that's a little smaller that'll i'll be trying out soon:
+i've since found another version of board that's a little smaller that'll i'll be trying out soon:
 https://www.aliexpress.com/item/33045795449.html
 This will hopefully fit into this smaller case:
 https://www.thingiverse.com/thing:2756473
