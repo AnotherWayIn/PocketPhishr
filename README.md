@@ -5,6 +5,7 @@ Code is based on the original here: https://github.com/adamff1/ESP8266-Captive-P
 
 
 Once running, if you connect to the free wifi from a pc (probably easier than your phone) you can browse to the web server on http://172.0.0.1/creds to view all the saved credentials or to http://172.0.0.1/ssid to change the ssid.
+The credentials are written to the eeprom so will persist if the device loses power.
 
 
 If you want to take it further, there is a case you can 3d print for it here: https://www.thingiverse.com/thing:6099890
