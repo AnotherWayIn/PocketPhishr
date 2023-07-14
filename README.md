@@ -18,12 +18,15 @@ https://www.aliexpress.com/item/33045795449.html
 This will fit nicely into this smaller case:
 https://www.thingiverse.com/thing:2756473
 
-Use the PocketPhisher2.ino code for this version
+Use the PocketPhisher2.ino code for this version as the oled uses a different library
+Here is a pic of the finished product:
+![IMG_4508](https://github.com/AnotherWayIn/PocketPhishr/assets/10500665/bc34ed63-5b0c-4ac3-9290-d20e3670be2b)
 
 
 
-
+Original version with U8G2 display
 ![IMG_4487](https://github.com/AnotherWayIn/PocketPhishr/assets/10500665/691bf384-637d-4af8-b2d8-cbeb152cc0a4)
+
 ![Xnip2023-06-29_05-52-39](https://github.com/AnotherWayIn/PocketPhishr/assets/10500665/941055ce-3b88-497e-af2f-07562731b9de)
 ![IMG_4471 3](https://github.com/AnotherWayIn/PocketPhishr/assets/10500665/dee45064-4e52-4b82-98fc-5fe3bf8d1ffc)
 
