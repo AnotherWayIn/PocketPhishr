@@ -13,10 +13,12 @@ Unfortunately, I couldn't find this version without the pin headers, so you'll n
 
 
 ** update **
-i've since found another version of board that's a little smaller that'll i'll be trying out soon:
+i've since found another version of board that's a little smaller:
 https://www.aliexpress.com/item/33045795449.html
-This will hopefully fit into this smaller case:
+This will fit nicely into this smaller case:
 https://www.thingiverse.com/thing:2756473
+
+Use the PocketPhisher2.ino code for this version
 
 
 
