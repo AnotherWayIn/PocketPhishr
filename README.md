@@ -19,7 +19,9 @@ https://www.aliexpress.com/item/33045795449.html
 This will fit nicely into this smaller case:
 https://www.thingiverse.com/thing:2756473
 
-Use the PocketPhisher2.ino code for this version as the oled uses a different library
+Use the PocketPhisher2.ino code for this version as the oled uses a different library. Found here:
+https://github.com/ThingPulse/esp8266-oled-ssd1306
+
 Here is a pic of the finished product. The screen is a little smaller and doesnt have the yellow section at the top like the other one:
 ![IMG_4508](https://github.com/AnotherWayIn/PocketPhishr/assets/10500665/bc34ed63-5b0c-4ac3-9290-d20e3670be2b)
 
