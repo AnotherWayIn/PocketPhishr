@@ -4,7 +4,7 @@ An evil WiFi Access Point for your pocket - because
 Code is based on the original here: https://github.com/adamff1/ESP8266-Captive-Portal, with some tweaks to work with a display. 
 
 
-Here is the specific board the code is based on. If you choose to use a differetn board you'll need to use the relevant settings and library for that display:
+Here is the specific board the code is based on. If you choose to use a different board, you'll need to use the relevant settings and library for that display:
 https://www.aliexpress.com/item/1005004513260449.html
 
 There are some instructions included on setting up the board and U8g2 library within the Arduino IDE.
